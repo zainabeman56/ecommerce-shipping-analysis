@@ -1,4 +1,5 @@
 📦 E-Commerce Shipping Performance Analysis
+
 📌 Project Overview
 
 This project analyzes an E-Commerce Shipping dataset using PostgreSQL (pgAdmin) for SQL analysis and Python (Jupyter Notebook) for data exploration and visualization.
@@ -15,6 +16,7 @@ Analyze discount impact on deliveries
 Rank warehouse performance
 Segment customers based on purchase history
 Generate business insights using SQL and Python
+
 🛠️ Tools & Technologies
 Tool	Purpose
 PostgreSQL (pgAdmin 4)	Database Management
@@ -26,8 +28,8 @@ NumPy	Numerical Operations
 Matplotlib	Data Visualization
 Seaborn	Statistical Visualization
 SQLAlchemy	PostgreSQL Connection
-📂 Dataset
 
+📂 Dataset
 The dataset contains information about e-commerce shipping orders including:
 
 Warehouse Block
@@ -75,6 +77,7 @@ Aggregate Functions
 Ranking Functions
 Conditional Logic
 CASE Statements
+
 📈 Python Analysis
 
 Python was used for:
@@ -93,6 +96,7 @@ NumPy
 Matplotlib
 Seaborn
 SQLAlchemy
+
 📉 Visualizations
 
 The project includes multiple business-oriented visualizations:
@@ -109,6 +113,7 @@ Product Weight vs Late Delivery
 Customer Rating Quartiles
 Customer Care Calls Analysis
 Correlation Heatmap
+
 🔍 Key Insights
 
 Some important findings include:
